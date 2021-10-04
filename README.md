@@ -9,8 +9,8 @@ For dialog an icons will use MATERIAL-UI library.
 
 The button have four states:  **Normal,  Warning, Error, Success**
 
-![Dialog](./imgadvice.png)
+![Dialog](./imgDlgCreate.png)
 
-![Responses](./imgadvice.png)
-![Responses](./imgadvice.png)
+![Responses](./imgButtons1.png)
+![Responses](./imgButtons2.png)
 
